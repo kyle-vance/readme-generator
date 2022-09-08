@@ -1,14 +1,28 @@
 {
-  "name": "static-site",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "node.js application to generator a readme.md file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Kyle Vance",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-vance/readme-generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "readme"
+  ],
+  "bugs": {
+    "url": "https://github.com/kyle-vance/readme-generator/issues"
+  },
+  "homepage": "https://github.com/kyle-vance/readme-generator#readme"
 }
