@@ -63,7 +63,7 @@ const questions = [
 // function to write README file
 function writeToFile(name, data) {
     fs.writeFile(name, data, (err) =>
-         err ? console.error(err) : console.log('Congratulations. You made generated a new README.md file')
+         err ? console.error(err) : console.log('Congratulations. You generated a new README.md file. It can be found in the readme-folder.')
     );
 };
 
