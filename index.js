@@ -30,7 +30,7 @@ const questions = [
         name: 'license',
         choices: [
             'MIT',
-            'GPLv2',
+            'GNUGPLv3',
             'Apache 2.0',
             'Unlicense',
             'BSD3',
