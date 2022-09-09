@@ -1,9 +1,9 @@
-# 
+# sample project
 
-  [![License: GNU GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
-
+descriptions
 
 ---
 
@@ -18,29 +18,29 @@
   --- 
 
 ## Installation 
-
+npm i, node index.js
 
 ---
 
 ## Usage 
-
+use it well, friend
 
 ---
 
 ## Contributions
-
+make good code
 
 ---
 
 ## Tests
-
+npm i then node index.js
 
 ---
 
 ## License
-This projected is licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
+This projected is licensed under [Unlicense] (https://unlicense.org/).
 
 ---
 
 ## Questions
-Feel free to reach out to me at  if you have any questions about this project, any other project I have worked on, or any other questions. My work can be found at https://github.com//.
+Feel free to reach out to me at usernamer@domain.com if you have any questions about this project, any other project I have worked on, or any other questions. My work can be found at https://github.com/username/.
