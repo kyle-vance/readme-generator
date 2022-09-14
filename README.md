@@ -18,7 +18,7 @@ I created a README.md generator application that uses node.js. This is a termina
 
   --- 
   
-#Screen Shot
+## Screen Shot
 <img src="https://user-images.githubusercontent.com/105682564/190262008-35c2c480-e8db-4c16-8687-00780d2c6c83.png">
 
 ---
