@@ -8,7 +8,6 @@ I created a README.md generator application that uses node.js. This is a termina
 ---
 
 ## Table of Contents
-  - [Screen Shot](#Screen Shot)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributions](#contributions)
