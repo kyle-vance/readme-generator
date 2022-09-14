@@ -8,6 +8,7 @@ I created a README.md generator application that uses node.js. This is a termina
 ---
 
 ## Table of Contents
+  - [Screen Shot](#Screen Shot)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributions](#contributions)
@@ -16,6 +17,11 @@ I created a README.md generator application that uses node.js. This is a termina
   - [Questions](#questions)
 
   --- 
+  
+#Screen Shot
+<img src="https://user-images.githubusercontent.com/105682564/190262008-35c2c480-e8db-4c16-8687-00780d2c6c83.png">
+
+---
 
 ## Installation 
 Clone the repository, navigate to the directory using gitbash or similar, install the dependencies by entering "npm i", then run the application by typing "node index.js". Note that node.js is also required.
