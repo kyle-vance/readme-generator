@@ -11,22 +11,22 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please write a brief description of your project',
+        message: 'Provide a brief description of your project',
         name: 'description',
     },
     {
         type: 'input',
-        message: 'Please provide installation instructions for your project',
+        message: 'Provide installation instructions for your project',
         name: 'installation',
     },
     {
         type: 'input',
-        message: 'Please describe specific usage information',
+        message: 'Describe specific usage information',
         name: 'usage',
     },
     {
         type: 'list',
-        message: 'Please choose a license from the following list:',
+        message: 'Choose a license from the following list:',
         name: 'license',
         choices: [
             'MIT',
@@ -39,12 +39,12 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'Please describe specific contribution guidelines for anyone who works on this project',
+        message: 'Describe specific contribution guidelines for anyone who works on this project',
         name: 'contributions',
     },
     {
         type: 'input',
-        message: 'Please specify any commands that can be used to test your project',
+        message: 'Specify any commands that can be used to test your project',
         name: 'tests',
     },
     {
